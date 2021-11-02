@@ -1,5 +1,13 @@
 # Atividade integradora
 
+# Integrantes. 
+
+1. Integrante: José Almir Sousa Cruz Filho.
+
+
+
+
+
 ## 1. Instruções
 ### 1.1. Repositório
 
